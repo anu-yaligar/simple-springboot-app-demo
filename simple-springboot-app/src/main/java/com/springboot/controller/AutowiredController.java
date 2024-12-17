@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.springboot.service.Animal;
 
+
 @RestController
 @RequestMapping("/autowire")
 public class AutowiredController {
